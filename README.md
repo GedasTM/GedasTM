@@ -1,5 +1,5 @@
 - 👋 Hi, I’m GedasTM
 - 👀 I’m interested in app and game development
 - 🌱 I’m currently learning Flutter and Go
-- 💞️ I’m looking to collaborate on a big app project or another indie game
+- 💞️ I’m looking to collaborate on a big app project or indie game
 - 📫 How to reach me - I have open DMs on twitter @GedasTM
